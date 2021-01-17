@@ -8,9 +8,9 @@
 			<key>IKEv2</key>
 			<dict>
 				<key>AuthName</key>
-				<string>EAP_USERNAME_HERE</string>
+				<string>root</string>
 				<key>AuthPassword</key>
-				<string>EAP_PASSWORD_HERE</string>
+				<string>imaman</string>
 				<key>AuthenticationMethod</key>
 				<string>Certificate</string>
 				<key>CertificateType</key>
@@ -46,11 +46,11 @@
 					<integer>59</integer>
 				</dict>
 				<key>RemoteAddress</key>
-				<string>HOSTNAME_HERE</string>
+				<string>192.168.1.3</string>
 				<key>RemoteIdentifier</key>
-				<string>HOSTNAME_HERE</string>
+				<string>192.168.1.3</string>
 				<key>ServerCertificateCommonName</key>
-				<string>HOSTNAME_HERE</string>
+				<string>192.168.1.3</string>
 				<key>UseConfigurationAttributeInternalIPSubnet</key>
 				<true/>
 			</dict>
